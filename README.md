@@ -7,9 +7,7 @@ A simple Pokedex application built with React and TypeScript. This project demon
 - Browse a list of Pokémon
 - View detailed information for each Pokémon
 - Responsive and clean UI
-- Built with React, TypeScript, and Fetch API
-
-## Getting Started
+- Built with React and TypeScript
 
 
 ### Installation
@@ -32,7 +30,7 @@ npm run dev
 
 ## API Reference
 
-Data is fetched from [PokéAPI](https://pokeapi.co/).
+Data is fetched from (https://pokeapi.co/).
 
 ## License
 
