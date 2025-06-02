@@ -9,19 +9,7 @@ A simple Pokedex application built with React and TypeScript. This project demon
 - Responsive and clean UI
 - Built with React and TypeScript
 
-
-### Installation
-
-```bash
-npm install
-```
-
-### Running the App
-
-```bash
-npm run dev
-
-## Technologies Used
+### Technologies Used
 
 - React
 - TypeScript
@@ -35,3 +23,15 @@ Data is fetched from (https://pokeapi.co/).
 ## License
 
 This project is for educational purposes.
+
+### Installation
+
+```bash
+npm install
+```
+
+### Running the App
+
+```bash
+npm run dev
+
